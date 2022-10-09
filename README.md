@@ -1,8 +1,6 @@
 # Tcs_ion-Rio-45-Internship
 Automate detection of different sentiments from textual comments and feedback
-Project Title
-----
-Automate Detection of different Sentiments from Textual Comments and Feedback. 
+
 
 Project Description:
 ---
